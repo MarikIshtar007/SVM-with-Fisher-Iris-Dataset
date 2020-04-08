@@ -4,7 +4,7 @@ This project is based on the dataset called Iris flower data set or Fisher's Iri
 The data set consists of 50 samples from each of three species of Iris, namely **Iris setosa**, **Iris virginica** and **Iris versicolor**.
 It has a total of 150 samples in total.
 Four features were measured from each sample are:
-  -sepal length in centimeters
-  -sepal width in centimeters
-  -petal length in centimeters
-  -petal width in centimeters
+  - sepal length in centimeters
+  - sepal width in centimeters
+  - petal length in centimeters
+  - petal width in centimeters
